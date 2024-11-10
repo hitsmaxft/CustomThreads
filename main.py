@@ -7,6 +7,7 @@ UNIT = "mm"
 ANGLE = 60.0
 SIZES = list(range(8, 51))
 PITCHES = [3.5, 5.0]
+PITCHES = [2, 2.4, 3.4, 3.5, 5.0]
 OFFSETS = [.0, .1, .2, .4, .8]
 
 
