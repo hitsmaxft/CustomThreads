@@ -1,0 +1,24 @@
+configs:
+  - name: "3DPrintedMetric"
+    customName: "3D-printed Metric Threads"
+    unit: "mm"
+    angle: 60.0
+    sizes: "8:51"
+    #sizes: "16:32,2" for range
+    #sizes: [1,2,4] for list
+    pitches: [3.5, 5.0]
+    offsets: [0.0, 0.1, 0.2, 0.4, 0.8]
+  - name: "3DPrintedMetricV3"
+    customName: "3D-printed Metric Threads V2"
+    unit: "mm"
+    angle: 60.0
+    sizes: "8:51"
+    pitches: [3.5, 5.0]
+    offsets: [0.0, 0.1, 0.2, 0.4, 0.8]
+  - name: "3DPrintedMetricV3"
+    customName: "3D-printed Metric Threads V3"
+    unit: "mm"
+    angle: 60.0
+    sizes: "8:51"
+    pitches: [3.5, 5.0]
+    offsets: [0.0, 0.1, 0.2, 0.4, 0.8]
